@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear hábitos.
 
+- [Visite o projeto online] (https://bortuluci.github.io/habit-tracker/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/zT5cGDEQl2eeK8IZmR3mOw/Habits-(e)-(Community)?node-id=75%3A128&t=Lc9h1xNoBlUDojdG-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
